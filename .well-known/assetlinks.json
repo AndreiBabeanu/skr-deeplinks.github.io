@@ -1,0 +1,9 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : {
+      "namespace": "android_app",
+      "package_name": "ro.jlg.mskyroster",
+      "sha256_cert_fingerprints": ["32:3A:19:37:67:F0:22:D7:53:82:65:66:50:93:A3:AE:B3:24:0E:6F:E5:F6:55:E7:5D:57:B1:10:4F:6F:B6:1C"] }
+  }
+]
